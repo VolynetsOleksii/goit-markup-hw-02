@@ -78,6 +78,7 @@ body {
 .hero-btn {
   color: var(--secondary-text-color);
   background: var(--accent-color);
+  font-family: inherit;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
@@ -147,7 +148,9 @@ body {
 .filter-btn {
   color: var(--primary-header-color);
   background: var(--third-background-color);
+  font-family: inherit;
   font-size: 16px;
+  font-weight: 500;
   line-height: 1.63;
   letter-spacing: 0.03em;
 }
